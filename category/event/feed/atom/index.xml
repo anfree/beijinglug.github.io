@@ -7,12 +7,35 @@
   <title type="text">Beijing GNU/Linux User Group</title>
   <subtitle type="text">Free Software bring me home</subtitle>
 
-  <updated>2015-06-27T09:24:06Z</updated>
+  <updated>2015-07-02T14:12:34Z</updated>
   <generator uri="http://blogofile.com/">Blogofile</generator>
 
   <link rel="alternate" type="text/html" href="http://www.beijinglug.org" />
   <id>http://www.beijinglug.org/feed/atom/</id>
   <link rel="self" type="application/atom+xml" href="http://www.beijinglug.org/feed/atom/" />
+  <entry>
+    <author>
+      <name></name>
+      <uri>http://www.beijinglug.org</uri>
+    </author>
+    <title type="html"><![CDATA[BLUG Tuesday at WuDaoKou (五道口)]]></title>
+    <link rel="alternate" type="text/html" href="http://www.beijinglug.org/2015/07/07/blug-tuesday-at-wudaokou-wu-dao-kou" />
+    <id>http://www.beijinglug.org/2015/07/07/blug-tuesday-at-wudaokou-wu-dao-kou</id>
+    <updated>2015-07-07T19:30:00Z</updated>
+    <published>2015-07-07T19:30:00Z</published>
+    <category scheme="http://www.beijinglug.org" term="event" />
+    <summary type="html"><![CDATA[BLUG Tuesday at WuDaoKou (五道口)]]></summary>
+    <content type="html" xml:base="http://www.beijinglug.org/2015/07/07/blug-tuesday-at-wudaokou-wu-dao-kou"><![CDATA[<h3 id="the-restaurant-at-the-endcenter-of-the-universe">The Restaurant at the End(Center) of the Universe</h3>
+<p>又到了每周二相见的时候了，这次我们的集结地是五道口-<strong>“宇宙的中心“</strong>，请您务必<strong>畅所欲言！</strong><br />
+This time, we will go to WuDaoKou(五道口) - as known as <strong>"the center of Universe" ("宇宙中心")</strong>. Let's talk everything without any limits - remember - that is your <strong>FREEDOM!</strong></p>
+<ul>
+<li><strong>Time:</strong> 19:30, 2015-07-07 (Tue)</li>
+<li><strong>Location:</strong> 雕刻时光咖啡馆(五道口店) Sculpting in Time Coffee (WuDaoKou)</li>
+<li><strong>Address:</strong> 海淀区 成府路华清嘉园12号楼2号3楼(近五道口城铁站) </li>
+<li><strong>Traffic:</strong> 地铁13号线 五道口站 B出口，向西60米路口向南 Subway Line 13, WuDaoKou station, Exit B</li>
+<li><strong>Tel:</strong>  010-82863094</li>
+</ul>]]></content>
+  </entry>
   <entry>
     <author>
       <name></name>
