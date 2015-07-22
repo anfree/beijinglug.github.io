@@ -91,10 +91,10 @@ ol {
 }
 
 li { margin-top: 0.5em;
-     margin-bottom: 1em; }
+     margin-bottom: 0.5em; }
 
 article ul {
-    line-height: 0.8em;
+    line-height: 1.1em;
 }
 
 .post-info {
