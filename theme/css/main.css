@@ -183,10 +183,16 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 		color: #D36D2A;
 		text-shadow: none;
 	}
-    .logo a:hover {
+    .logo a:hover,
+    .logo-icon a:hover {
 		background: none;
     }
 	
+    .logo-icon {
+        margin: 15px 0 0 7px;
+		float: right;
+    }
+
 	#banner h1 strong {font-size: 0.36em; font-weight: normal;}
 	
 	/* Main Nav */
