@@ -327,7 +327,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	}
 	
 		/* Icons */
-		.social a[href*='about.me'] {background-image: url('../images/icons/aboutme.png');}
+		/*.social a[href*='about.me'] {background-image: url('../images/icons/aboutme.png');}
 		.social a[href*='bitbucket.org'] {background-image: url('../images/icons/bitbucket.png');}
 		.social a[href*='delicious.com'] {background-image: url('../images/icons/delicious.png');}
 		.social a[href*='digg.com'] {background-image: url('../images/icons/digg.png');}
@@ -355,6 +355,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 		.social a[href*='youtube.com'] {background-image: url('../images/icons/youtube.png');}
 
 /*
+        */
 	About
 *****************/
 #about {
